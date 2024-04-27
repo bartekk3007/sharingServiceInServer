@@ -1,0 +1,7 @@
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\EndpointKlient3\bin\Debug\EndpointKlient3.exe.config
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\EndpointKlient3\bin\Debug\EndpointKlient3.exe
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\EndpointKlient3\bin\Debug\EndpointKlient3.pdb
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\EndpointKlient3\obj\Debug\EndpointKlient3.csproj.AssemblyReference.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\EndpointKlient3\obj\Debug\EndpointKlient3.csproj.CoreCompileInputs.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\EndpointKlient3\obj\Debug\EndpointKlient3.exe
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\EndpointKlient3\obj\Debug\EndpointKlient3.pdb
